@@ -4,7 +4,7 @@ h1 a{
 }
 body{
 	padding-left: 15px;
-	width: 100%;
+
 	
 	
 }
@@ -19,8 +19,8 @@ body{
 	text-decoration: none;
 }
 .page-header a .btn btn-default{
-	color: #ffffff;
 	font-size: 30pt;
+	float: right;
 }
 .content {
 	margin-left: 40px;
@@ -51,6 +51,8 @@ h1, h2, h3, h4{
 }
 #btn_edit{
 	float: right;
-	color: #ffffff;
 
+}
+.comment{
+    margin: 20px 0px 20px 0px;
 }
